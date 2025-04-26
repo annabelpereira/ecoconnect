@@ -14,7 +14,7 @@ export default function LeaderBoard(): JSX.Element {
       color: '#328E6E',
     },
     {
-      name: 'Robert',
+      name: 'Roberto',
       place: '2nd',
       points: '1200 Pts',
       order: 1,
